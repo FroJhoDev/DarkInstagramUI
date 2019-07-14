@@ -3,6 +3,8 @@
 A new Flutter project. Created for the videos on my channel.
 - Part 01: 
 - Part 02: 
+- Part 03: 
+- Part 04: 
 
 ## Getting Started
 
